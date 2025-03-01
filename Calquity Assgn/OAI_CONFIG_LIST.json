@@ -1,0 +1,7 @@
+[
+    {
+        "model":"gemini-pro",
+        "api_base": "https://generativelanguage.googleapis.com/v1/models",
+        "api_key":"AIzaSyAoAYoOkzdK1HYzWs8RmdYZgR7eLCzXcvU"
+    }
+]
